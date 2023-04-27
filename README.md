@@ -124,5 +124,9 @@ predict(w1,w2,test)
 ```
 
  ## OUTPUT: 
+ ![nn1](https://user-images.githubusercontent.com/93427254/234933243-046ba314-34e2-4fb6-bc5e-79306816e13e.png)
+
+![nn2](https://user-images.githubusercontent.com/93427254/234933259-250b965c-efb6-4579-b5ce-dcdee925874d.png)
 
 ## RESULT:
+ Thus we have implemented a perceptron for classification using Python.
